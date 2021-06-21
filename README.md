@@ -1,6 +1,6 @@
 # DeathSkull's Custom Minecraft Modpack
 
-### Current Version - Alpha v0.1
+### Latest Version - Alpha v0.2
 
 ***
 
