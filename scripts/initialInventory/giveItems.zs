@@ -1,0 +1,1 @@
+mods.initialinventory.InvHandler.addStartingItem("Quest Book", <item:ftbquests:book>);

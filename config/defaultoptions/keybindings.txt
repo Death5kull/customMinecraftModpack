@@ -37,6 +37,7 @@ key_key.toggleLiquids:key.keyboard.unknown:NONE
 key_key.toggleVisible:key.keyboard.unknown:NONE
 key_placebo.toggleWings:key.keyboard.unknown:NONE
 key_placebo.toggleTrails:key.keyboard.unknown:NONE
+key_key.ftbquests.quests:key.keyboard.unknown:NONE
 key_key.trashslot.toggle:key.keyboard.unknown:NONE
 key_key.trashslot.delete:key.keyboard.delete:NONE
 key_key.trashslot.deleteAll:key.keyboard.delete:SHIFT
